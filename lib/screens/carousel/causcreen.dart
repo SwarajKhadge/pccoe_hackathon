@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pccoe_hackathon/carousel/data.dart';
+import 'package:pccoe_hackathon/screens/carousel/data.dart';
 
 class Causcreen extends StatefulWidget {
   @override
